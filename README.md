@@ -2,7 +2,7 @@
 
 **Quantitative Finance · Market Microstructure · Decentralized Finance · Data-Driven Research**
 
-I am a researcher at the **University of Bologna**, working at the intersection of quantitative finance, financial market microstructure, and decentralized markets. My research interests include the dynamics of newly created cryptoassets, trading mechanisms, liquidity, and the use of data to understand financial markets.
+My work explores the intersection of quantitative finance, financial market microstructure, and decentralized markets. My research interests include the dynamics of newly created cryptoassets, trading mechanisms, liquidity, and the use of data to understand financial markets.
 
 This repository is a curated collection of **research presentations, conference talks, and workshop materials**. If you are reviewing my profile for a quantitative research, trading, or research engineering opportunity, the selections below are a good place to start.
 
@@ -16,11 +16,11 @@ Research presentation on the dynamics of newly launched crypto tokens and the ch
 **[View presentation (PDF)](QFW26-Bergamo_PredictingTheSuccessOfNewCrypto-Tokens.pdf)**
 
 ### 2. A Sea of Coins: The Proliferation of Cryptocurrencies in Uniswap V2
-**Fields Institute · Workshop on Decentralized Finance and Market Microstructure · Toronto · 2025**
+**Fields Institute · Workshop on Decentralized Finance and Market Microstructure · 2025**
 
-Empirical research into newly created tokens on decentralized exchanges, including liquidity, honeypots, sandwich attacks, and differences between price dynamics in transaction time and clock time.
+Empirical research into newly created tokens on decentralized exchanges, with a focus on market structure and token proliferation.
 
-**[View presentation (PDF)](FieldsInstitute-WorkshopDecentralizedFinanceMarketMicrostructure250509.pdf)** · [Talk details](https://www.fieldsinstitute.ca/activities/24-25/decentralized-finance)
+**[View presentation (PDF)](FieldsInstitute-WorkshopDecentralizedFinanceMarketMicrostructure250509.pdf)**
 
 ### 3. Forecasting Prediction Markets
 **DLT Workshop · Pisa · 2026**
